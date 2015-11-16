@@ -3,6 +3,6 @@
  
 cd C:\Python27\case 
 
-start pythonw tuple.py 
+start pythonw hello.py 
 
 exit 
